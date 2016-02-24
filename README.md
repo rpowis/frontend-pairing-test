@@ -2,20 +2,12 @@
 
 This is a simple pairing test to test a candidates Html, CSS, JavaScript and general frontend skills. The approach to this
 test should be one of speaking with the candidate as they go, discussing them on their approach and getting a feel for
-how the candidate thinks and works around a task.
+how the candidate thinks and works around a task. Please run through the tasks listed below getting the candidate to start
+from scratch. This repo contains an example of the test created when devising the test.
 It is not expected that the user will finish this task in the time given and when this is the case it is worth asking
 them how they would approach the tasks they have not got to.
 
 The candidate can use what they are comfortable with. JavaScript or jQuery and use CSS.
-
-## Example
-![Alt Example of pairing test](./screenshot/pairing-test.gif)
-
-### Small screenshot
-![Alt Example of pairing test](./screenshot/small-view.png)
-
-### Large screenshot
-![Alt Example of pairing test](./screenshot/large-view.png)
 
 ## Tasks
 
@@ -51,3 +43,12 @@ The candidate can use what they are comfortable with. JavaScript or jQuery and u
     - Demonstration of namespacing JavaScript.
     - Knowledge of `events`.
     - Understanding of selecting elements in a page.
+
+## Example
+![Alt Example of pairing test](./screenshot/pairing-test.gif)
+
+### Small screenshot
+![Alt Example of pairing test](./screenshot/small-view.png)
+
+### Large screenshot
+![Alt Example of pairing test](./screenshot/large-view.png)

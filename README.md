@@ -11,6 +11,12 @@ The candidate can use what they are comfortable with. JavaScript or jQuery and u
 ## Example
 ![Alt Example of pairing test](./screenshot/pairing-test.gif)
 
+### Small screenshot
+![Alt Example of pairing test](./screenshot/small-view.png)
+
+### Large screenshot
+![Alt Example of pairing test](./screenshot/large-view.png)
+
 ## Tasks
 
 1. We would like you to create an accessible user comment form, consisting of a name and a comment section to send to a backend.
@@ -19,29 +25,29 @@ The candidate can use what they are comfortable with. JavaScript or jQuery and u
  - Make the inputs and button full width at mobile width (600px).
  - Decrease the font size at mobile width.
  - Make the submit button easily pressed in "mobile" view.
- 
+
 4. On submit, display the comment above the form using Javascript, and stay on the page, with the inputs cleared, so multiple comments can be added in this way.
    If there is time, add client-side validation to prevent submission if any field is empty; or ask the interviewee how they would approach this.
 
 ## Expect to see
 
 1. Html, accessibility, form creation and sending to the server.
-    - A form with a legend, fieldset, labels. 
+    - A form with a legend, fieldset, labels.
     - Labels named with the `for` attribute.
     - `name` attributes for the inputs and submit.
     - An understanding of where this form is going, `action` and `method` attributes.
-    
+
 2. CSS knowledge.
     - A demonstration of the understanding of CSS.
     - Separation of concerns by placing the CSS in a separate file.
-    
+
 3. Responsive design knowledge
     - An understanding of mobile first.
     - An understanding of `small`, `medium` and `large` device sizes.
     - An understanding of responsive design.
-    
+
 4. JavaScript knowledge
-    - Separation of concerns by placing the JavaScript in a separate file. 
+    - Separation of concerns by placing the JavaScript in a separate file.
     - Demonstration of namespacing JavaScript.
     - Knowledge of `events`.
     - Understanding of selecting elements in a page.

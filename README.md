@@ -8,6 +8,9 @@ them how they would approach the tasks they have not got to.
 
 The candidate can use what they are comfortable with. JavaScript or jQuery and use CSS.
 
+## Example
+![Alt Example of pairing test](./screenshot/pairing-test.gif)
+
 ## Tasks
 
 1. We would like you to create an accessible user comment form, consisting of a name and a comment section to send to a backend.

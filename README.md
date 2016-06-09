@@ -12,7 +12,7 @@ The candidate can use what they are comfortable with. JavaScript or jQuery and u
 ## Tasks
 
 1. We would like you to create an accessible user comment form, consisting of a name and a comment section to send to a backend.
-2. We would like you to style the form to look functional. Up to the interviewee's discretion.
+2. We would like you to style the form to look functional. Up to the interviewee's discretion. Please be mindful of writing the CSS as if you are creating a shared component in a shared library.
 3. Using responsive web design techniques,
  - Make the inputs and button full width at mobile width (600px).
  - Decrease the font size at mobile width.
